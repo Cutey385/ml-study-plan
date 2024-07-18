@@ -30,7 +30,7 @@ Watch the video on YouTube for instructions:
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 
 - [ ] Python
-    - [---] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) 
+    - [x] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) 
     - [ ] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
     - [ ] [Numpy - Free Udemy Course](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)
     - [ ] Matplotlib
